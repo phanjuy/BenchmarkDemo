@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateParser", "DateParser\DateParser.csproj", "{D37126F2-0800-4D90-A1A7-6DCFDC1B5979}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFullString", "GetFullString\GetFullString.csproj", "{30735234-D814-45C4-8472-D8B9EF1728AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D37126F2-0800-4D90-A1A7-6DCFDC1B5979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D37126F2-0800-4D90-A1A7-6DCFDC1B5979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D37126F2-0800-4D90-A1A7-6DCFDC1B5979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30735234-D814-45C4-8472-D8B9EF1728AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30735234-D814-45C4-8472-D8B9EF1728AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30735234-D814-45C4-8472-D8B9EF1728AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30735234-D814-45C4-8472-D8B9EF1728AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
